@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Factoring</string>
+
+    <!-- Main activity start -->
+    <string name="ma_hint_input_number">Введіть число для факторизаціії</string>
+    <string name="ma_result">Результат: %1$s</string>
+    <string name="ma_ok">OK</string>
+    <!-- Main activity end -->
+
+</resources>

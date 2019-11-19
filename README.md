@@ -1,2 +1,0 @@
-# Factoring
-Factorization of integers
